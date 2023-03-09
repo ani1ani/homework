@@ -1,0 +1,20 @@
+div.part-one{
+    color: green;
+}
+span, div .part-two{
+    color: red;
+}
+
+div.part-three, .background-yellow{
+    background-color: yellow;
+}
+div .part-three, .background-pink{
+    background-color: pink;
+}
+.red-text,span{
+    color: red;
+}
+
+.blue text, span{
+    color: blue;
+}
